@@ -1,0 +1,23 @@
+Quick Start Instructions
+
+This is the abbreviated version of the instructions for getting set up.  
+If you need more details, see the following pages or ask for help.  
+You’ll be using an RP2040 Zero (Raspberry Pi microcontroller) for this 
+exploration.
+
+Plug the device into your computer with a USB C cable.  
+
+Press the RESET and BOOT buttons together then release the buttons 
+one at a time starting with the RESET button and followed by the BOOT button.
+
+Copy the uf2 file (adafruit-circuitpython-waveshare_rp2040_zero-en_US-10.1.4.uf2) from the Trinkets_SkillShare\RP2040ZeroSetup folder. (on the desktop)
+
+Copy the contents of the Trinkets_SkillShare\Examples folder (Just the contents, not the folder itself) to the CIRCUITPY drive.
+
+Open https://code.circuitpython.org/ in Chrome or Explorer. 
+Select the USB interface that the device is plugged into
+Select CIRCUITPY as the root directory.
+Make sure both the Editor and Serial windows are open.
+Load the “code.py” file from your choice of examples into the editor. 
+Save the code.py file to top level of the CIRCUITPY drive.
+
